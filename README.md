@@ -1,1 +1,1 @@
-Syllabus, etc.
+Syllabus, lecture slides, etc.
