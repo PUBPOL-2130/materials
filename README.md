@@ -1,1 +1,1 @@
-Syllabus, lecture slides, etc.
+Syllabus, lecture slides, lab slides, practice problems, etc
