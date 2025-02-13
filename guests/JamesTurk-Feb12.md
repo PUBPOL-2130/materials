@@ -5,9 +5,9 @@ The first part of this makeup class was a mini-lecture on [MAUP](https://en.wiki
 Then [James Turk](https://cs.uchicago.edu/news/civic-tech-pioneer-james-turk-joins-uchicago-cs-to-teach-in-mpcs-capp/) (clinical professor who helps run the [CAPP](https://capp.uchicago.edu/curriculum/) program at UChicago) spoke about web scraping.
 
 
-## Recording
+## Recording and slides
 
-Here's the [zoom recording](https://cornell.zoom.us/rec/share/A8FCHkLkYllVls5FDOv6HQG1-JMTsIDZelqScFekFdkkThb6n_kQXlneNJDcHwyb.DhpPjP7mX3P7su-T?startTime=1739394158000)
+Here's the [zoom recording](https://cornell.zoom.us/rec/share/A8FCHkLkYllVls5FDOv6HQG1-JMTsIDZelqScFekFdkkThb6n_kQXlneNJDcHwyb.DhpPjP7mX3P7su-T?startTime=1739394158000) and here are the [slides](https://github.com/PUBPOL-2130/materials/blob/main/guests/JamesTurk-slides.pdf).
 
 ## Links
 
